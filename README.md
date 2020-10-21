@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I design #software 👨🏽‍💻.
+I design software 👨🏽‍💻.
 
 Love 🎸, avid reader 📚.
 
