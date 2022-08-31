@@ -4,10 +4,6 @@ I design software 👨🏽‍💻.
 
 Love 🎸, avid reader 📚.
 
-Co-founder [@wealize](https://github.com/wealize).
-
-Python Córdoba 🐍 organizer.
-
 <!--
 **javaguirre/javaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
