@@ -13,7 +13,7 @@ Some relevant contributions over the years:
     * [Wealize Infra](https://github.com/javaguirre/infra)
 
   * K8s/Helm
-    * [Wealize Infra](https://github.com/javaguirre/infra/tree/master/coloqio)
+    * [Wealize Infra k8s](https://github.com/javaguirre/infra/tree/master/coloqio)
 
   * Ansible
     * [Supervisor](https://github.com/Stouts/Stouts.supervisor/pulls?q=author%3Ajavaguirre)
